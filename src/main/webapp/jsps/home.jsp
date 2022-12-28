@@ -11,8 +11,8 @@
 <body>
 <h1 align="center">Landmark Technologies</h1>
 <h2 align="center"> I am switching career to become a DevOps, Plaform and Cloud Engineer. 
-	I know my interview will be smooth and I will get a very good job when I'm ready.
-	The shout of the King is in our midst. His name is JESUS.  HE IS OUR SUCCESS ACCESS KEY</h2>
+	I know my interview will be smooth and I will get a very good job when I'm ready. It is going to be a remote job!
+	The shout of the King is in our midst. His name is JESUS. HE IS OUR SUCCESS ACCESS KEY</h2>
 <hr>
 <div style="text-align: center;">
 	<span>
