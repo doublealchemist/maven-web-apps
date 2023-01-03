@@ -97,19 +97,19 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>Landmark Technologies Releases Nexus Repository</name>
-	      <url>http://3.145.9.25:8081/repository/rbc-releases/</url>
+	      <url>http://18.191.51.24:8081/repository/tesla-web-releases//</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
-	      <name>Landmark Technologies Snapshot Nexus Repository </name>
-	      <url>http://3.145.9.25:8081/repository/rbc_snapshot/</url>
+	      <name>Landmark Technologies Snapshot Nexus Repository/</name>
+	      <url>http://18.191.51.24:8081/repository/tesla-webapp-snapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
 	
 	<build>
-		<finalName>maven-web-app</finalName>
+		<finalName>ebay-bts</finalName>
 		
 		<plugins>
 			<plugin>
