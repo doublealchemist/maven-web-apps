@@ -21,8 +21,8 @@
 		<spring.version>5.1.2.RELEASE</spring.version>
 		<junit.version>4.11</junit.version>
 		<log4j.version>1.2.17</log4j.version>
-		<sonar.host.url>http:172.31.25.57:9000/</sonar.host.url>
-		<sonar.login>ef80800a1c98b86b149c38f71875cf5240e2a6be</sonar.login>
+		<sonar.host.url>http:172.31.8.167:9000/</sonar.host.url>
+		<sonar.login>a346e04208c2df728dd5ed5f268c7e78344dd7ac</sonar.login>
 		<!--<sonar.password>admin123</sonar.password>  -->
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 		<project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
@@ -97,13 +97,13 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>Landmark Technologies Releases Nexus Repository</name>
-	      <url>http://3.144.117.35:8081/repository/tesla-web-releases//</url>
+	      <url>http://54.153.93.126:8081/repository/tesla_releases/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Landmark Technologies Snapshot Nexus Repository/</name>
-	      <url>http://3.144.117.35:8081/repository/tesla-webapp-snapshot/</url>
+	      <url>http://54.153.93.126:8081/repository/tesla_snapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
